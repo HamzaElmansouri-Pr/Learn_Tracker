@@ -1,0 +1,42 @@
+# Laravel & general
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/.idea
+/.vscode
+/.phpunit.result.cache
+.phpunit.result.cache
+.env
+.env.*
+Homestead.yaml
+Homestead.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+bower_components/
+.DS_Store
+Thumbs.db
+
+# Build outputs
+/public/build
+/public/mix-manifest.json
+/resources/js/*.map
+/resources/css/*.map
+
+# Vite / npm
+/.vite
+
+# Composer
+composer.phar
+
+# IDE files
+/.phpstorm.meta.php
+
+# Misc
+coverage/
+
+# Don't ignore screenshots (kept intentionally)
+# screenshots/
+
